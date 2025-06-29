@@ -25,6 +25,7 @@ Este modelo adota um perfil de investimento Moderado e sugere a alocação do se
 Perfil: Sugere a alocação do seu investimento mensal em diferentes categorias de FIIs.
 
 
+![Planilha de investimento](https://github.com/gisetech/dioinvest/blob/main/dio_invest.png)
 
 
 
